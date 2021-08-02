@@ -2,8 +2,8 @@
 
 pragma solidity ^0.8.5;
 
-import "./Dao.sol";
 import "./Token.sol";
+import "./Dao.sol";
 import "./Management.sol";
 
 contract Factory {
